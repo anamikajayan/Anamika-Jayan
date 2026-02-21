@@ -2,27 +2,29 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Studyfocus pro 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: syntax squad
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Anamika Jayan Government engineering college idukki
+- Member 2: Chinchina Anil Government engineering college idukki
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://anamikajayan.github.io/Anamika-Jayan/
 
 ### Project Description
-[2-3 lines about what your project does]
+StudyFocus Pro is a modern, single-page web app built with HTML, CSS, and JavaScript that serves as a distraction-free Pomodoro-style focus timer for students.
+
 
 ### The Problem statement
-[What problem are you solving?]
+Students and professionals struggle to maintain deep focus during study sessions due to digital distractions and lack of structured time management.
+
 
 ### The Solution
-[How are you solving it?]
+StudyFocus Pro auto-pauses the timer with audio warnings when users switch tabs. It integrates notes and timer in a single screen to eliminate alt-tabbing. Users can select customizable 15/25/50/90-minute sessions. Voice alerts provide real-time feedback alongside progress ring visualization. The glassmorphism UI maintains high engagement throughout sessions.
 
 ---
 
@@ -31,10 +33,11 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [HTML5, CSS3, Vanilla Javascript(ES6+)]
+- Frameworks used: [None - Pure vanilla web technologies (no React/Vue/Angular]
+- Libraries used: [Zero external libraries - 100% vanilla code,Web Speech API - Native browser speech synthesis,localStorage API - User settings persistence]
+- Tools used: [ VS Code, chrome Devtools, live server extension,document.visibilitychange API,
+window.blur/focus events,SpeechSynthesisUtterance API,localStorage API,SVG stroke animations]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +49,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Tab Switch Protection - Automatically pauses timer when leaving tab, shows red bouncing alert + voice warning until user returns.]
+- Feature 2: [Integrated Notes Panel - Paste study notes directly beside timer; toggle visibility without leaving focus zone]
+- Feature 3: [Custom Focus Sessions - Select 15/25/50/90 minute timers matching different study needs with animated progress ring.]
+- Feature 4: [Voice Motivation - Real-time speech alerts ("1 minute left!", "Tab switched!") with adjustable volume keep users locked in.]
 
 ---
 
